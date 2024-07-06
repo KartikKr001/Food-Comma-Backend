@@ -31,13 +31,13 @@ this app requires [Node.js](https://nodejs.org/) v14+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-cd FoodComm
+cd Food-Comma-Backend
 npm install
-node server.js
+node index.js
 ```
 
 ## Development
 
 Want to improve? Great!
-Make the changes and raise a PR. Reach out to me over kankvish@gmail.com
+Make the changes and raise a PR. Reach out to me over kartikkrprajapati01@gmail.com
 
